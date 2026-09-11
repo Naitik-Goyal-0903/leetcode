@@ -1,29 +1,20 @@
 class Solution {
     public String licenseKeyFormatting(String s, int k) {
-        s=s.toUpperCase();
-        int index=0;
-        StringBuilder sb = new StringBuilder(s.length());
-        for (int i=0;i<s.length();i++)
-        {
-            if(s.charAt(i)!='-')
-            {
-                sb.append(s.charAt(i));
+        StringBuilder sb = new StringBuilder();
+        
+        // Piche se aage traverse karenge
+        for (int i = s.length() - 1; i >= 0; i--) {
+            char ch = s.charAt(i);
+            if (ch != '-') {
+                // Har k characters ke baad dash (-) lagayein
+                if (sb.length() % (k + 1) == k) {
+                    sb.append('-');
+                }
+                sb.append(Character.toUpperCase(ch));
             }
-            
-        }
-        int len = sb.length();
-        if (len == 0) return "";
-        
-        int firstGroup = len % k;
-        if (firstGroup == 0) {
-            firstGroup = k;
         }
         
-        for (int i = firstGroup; i < sb.length(); i += k + 1) {
-            sb.insert(i, '-');
-        }
-        
-        return sb.toString();
-
+        // String reverse karke final output return karein
+        return sb.reverse().toString();
     }
 }
