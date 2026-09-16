@@ -11,6 +11,7 @@
 | [0482-license-key-formatting](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
+| [0551-student-attendance-record-i](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
