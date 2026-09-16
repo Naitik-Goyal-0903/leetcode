@@ -3,21 +3,21 @@ class Solution {
         Boolean flag = false;
         int Ucount =0;
         int Lcount =0;
-        for (int i =0;i<moves.length();i++)
+        for (char move : moves.toCharArray())
         {
-            if (moves.charAt(i)=='U')
+            if (move=='U')
             {
                 Ucount++;
             }
-            if (moves.charAt(i)=='R')
+            if (move=='R')
             {
                     Lcount--;
             }
-            if (moves.charAt(i)=='D')
+            if (move=='D')
             {
                 Ucount--;
             }
-            if (moves.charAt(i)=='L')
+            if (move=='L')
             {
                 Lcount++;
             }
