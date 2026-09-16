@@ -12,6 +12,7 @@
 | [0520-detect-capital](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,4 +31,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0242-valid-anagram/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 <!---LeetCode Topics End-->
