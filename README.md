@@ -13,6 +13,7 @@
 | [0541-reverse-string-ii](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0709-to-lower-case](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0709-to-lower-case/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
