@@ -16,6 +16,7 @@
 | [0657-robot-return-to-origin](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
