@@ -45,9 +45,14 @@
 | ------- | ------- |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0724-find-pivot-index](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0724-find-pivot-index/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 <!---LeetCode Topics End-->
