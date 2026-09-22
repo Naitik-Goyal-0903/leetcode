@@ -47,6 +47,7 @@
 | [0724-find-pivot-index](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0812-largest-triangle-area](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +56,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
