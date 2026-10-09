@@ -30,6 +30,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 ## Sorting
@@ -71,6 +72,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Recursion
