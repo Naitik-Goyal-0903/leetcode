@@ -23,6 +23,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0724-find-pivot-index](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -85,4 +87,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
