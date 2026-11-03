@@ -9,6 +9,7 @@
 | [0125-valid-palindrome](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0402-remove-k-digits](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0482-license-key-formatting](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
@@ -93,12 +94,18 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
