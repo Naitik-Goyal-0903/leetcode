@@ -71,6 +71,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Naitik-Goyal-0903/leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
